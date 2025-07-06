@@ -150,6 +150,8 @@ An interactive Power BI dashboard was created to summarize:
 
 ![front](https://github.com/user-attachments/assets/b988c40a-adc8-459b-b485-d565346a5c01)
 
+https://github.com/user-attachments/assets/05616ccf-2ca4-4423-be76-e18d7a2dcd60
+
 ## Recommendations
 
 1. Scale Premium acquisition – high ARPU and ROI per user  
